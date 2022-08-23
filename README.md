@@ -8,9 +8,20 @@
 
 - HTML & CSS
 
-## Authors
+## Getting Started
 
-👤 **Author1**
+**These are instructions on setting up your project locally.**
+
+To get a local copy up and running follow these simple example steps.
+
+### setup
+    clone this project by using following command
+    git clone https://github.com/m-ayyaz/Linters_setup.git
+    Apply changes as per your requirement and Push it on your local and remote repositry
+## Author
+
+👤 Muhammad Ayaz Munir
+
 
 - GitHub: [@githubhandle](https://github.com/m-ayyaz)
 - Twitter: [@twitterhandle](https://twitter.com/m_ayaz_munir)
